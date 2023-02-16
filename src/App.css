@@ -1,0 +1,30 @@
+.main-container {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+input {
+    outline: none;
+    padding: 8px 10px;
+    border-radius: 5px;
+}
+
+select {
+    outline: none;
+    border-radius: 5px;
+}
+
+.btn-container {
+
+    display: flex;
+    justify-content: center;
+}
+
+.btn-container button {
+
+    letter-spacing: 1px;
+    font-weight: 600;
+}
